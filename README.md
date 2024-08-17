@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharduljunagade&label=Profile%20views&color=0e75b6&style=flat" alt="sharduljunagade" /> </p>
 
-- 🌱 I’m currently learning **Astro and MongoDB**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, C++, HTML, CSS, JS, Bootstrap, Tailwind, ExpressJS, NodeJS**
+- 💬 Ask me about **Python, C++, PERN Stack**
 
 <!--
 - 👯 I’m looking to collaborate on ...
