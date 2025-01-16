@@ -99,12 +99,14 @@ When I'm not coding, you'll find me playing games or indulging in a good binge-w
 ## 📊 GitHub Stats:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+<p>
+  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=true&show_icons=true" alt="Shardul's GitHub Stats" /></a>
+  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top Langs" /></a>
+</p>
 
-[![Shardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=true&show_icons=true)](https://github.com/ShardulJunagade)
-
-[![Shardul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShardulJunagade&theme=dark&hide_border=true)](https://github.com/ShardulJunagade)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=true&layout=compact&hide=jupyter%20notebook)](https://github.com/ShardulJunagade)
+<!-- [![Shardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=true&show_icons=true)](https://github.com/ShardulJunagade) -->
+<!-- [![Shardul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShardulJunagade&theme=dark&hide_border=true)](https://github.com/ShardulJunagade) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=true&layout=compact&hide=jupyter%20notebook)](https://github.com/ShardulJunagade) -->
 
 ### 🔝 Top Contributed Repo
 [![Top Repos](https://github-contributor-stats.vercel.app/api?username=ShardulJunagade&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)](https://github.com/ShardulJunagade)
@@ -116,8 +118,7 @@ When I'm not coding, you'll find me playing games or indulging in a good binge-w
 ## 💻 Coding Handles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/ShArDul_0109">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/ShArDul_0109"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://leetcode.com/u/ShArDul_0109/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>
   <a href="https://www.geeksforgeeks.org/user/sharduljapuv/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksForGeeks" /></a>
   <!-- <a href="https://www.codechef.com/users/shardul_0109"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a> -->
