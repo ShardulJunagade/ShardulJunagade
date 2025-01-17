@@ -1,3 +1,11 @@
+<!-- Resources -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://gprm.itsvg.in -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+
+
+
 <h1 align="center">Hi 👋, I'm Shardul Junagade</h1>
 <!-- <h3 align="center">Sophomore | Computer Science and Engineering | IIT Gandhinagar</h3> -->
 
@@ -27,7 +35,6 @@ When I'm not coding, you'll find me playing games or indulging in a good binge-w
 
 
 <h2 align="center">🧩 Languages, Libraries and Frameworks</h2>
-<!-- https://github.com/Ileriayo/markdown-badges -->
 
 <p>
 <div align="center">
@@ -97,7 +104,6 @@ When I'm not coding, you'll find me playing games or indulging in a good binge-w
 
 
 ## 📊 GitHub Stats:
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p>
   <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=false&show_icons=true" alt="Shardul's GitHub Stats" /></a>
