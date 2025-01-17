@@ -104,9 +104,9 @@ When I'm not coding, you'll find me playing games or indulging in a good binge-w
   <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook" alt="Top Langs" /></a>
 </p>
 
-<!-- [![Shardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=true&show_icons=true)](https://github.com/ShardulJunagade) -->
-[![Shardul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShardulJunagade&theme=dark&hide_border=false)](https://github.com/ShardulJunagade)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=true&layout=compact&hide=jupyter%20notebook)](https://github.com/ShardulJunagade) -->
+<!-- [![Shardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=false&show_icons=true)](https://github.com/ShardulJunagade) -->
+<!-- [![Shardul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShardulJunagade&theme=dark&hide_border=false)](https://github.com/ShardulJunagade) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook)](https://github.com/ShardulJunagade) -->
 
 ### 🔝 Top Contributed Repo
 [![Top Repos](https://github-contributor-stats.vercel.app/api?username=ShardulJunagade&limit=5&theme=dark&hide_border=false&combine_all_yearly_contributions=true)](https://github.com/ShardulJunagade)
@@ -128,6 +128,9 @@ When I'm not coding, you'll find me playing games or indulging in a good binge-w
   <a href="https://www.coursera.org/learner/shardul-junagade"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera" /></a>
   <!-- <a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy" /></a> -->
 </p>
+
+
+
 
 ## 🤝 Connect with me:
 
