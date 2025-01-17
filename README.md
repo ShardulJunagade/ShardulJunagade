@@ -100,16 +100,16 @@ When I'm not coding, you'll find me playing games or indulging in a good binge-w
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p>
-  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=true&show_icons=true" alt="Shardul's GitHub Stats" /></a>
-  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=true&layout=compact&hide=jupyter%20notebook" alt="Top Langs" /></a>
+  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=false&show_icons=true" alt="Shardul's GitHub Stats" /></a>
+  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook" alt="Top Langs" /></a>
 </p>
 
 <!-- [![Shardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=true&show_icons=true)](https://github.com/ShardulJunagade) -->
-<!-- [![Shardul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShardulJunagade&theme=dark&hide_border=true)](https://github.com/ShardulJunagade) -->
+[![Shardul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShardulJunagade&theme=dark&hide_border=false)](https://github.com/ShardulJunagade)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=true&layout=compact&hide=jupyter%20notebook)](https://github.com/ShardulJunagade) -->
 
 ### 🔝 Top Contributed Repo
-[![Top Repos](https://github-contributor-stats.vercel.app/api?username=ShardulJunagade&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)](https://github.com/ShardulJunagade)
+[![Top Repos](https://github-contributor-stats.vercel.app/api?username=ShardulJunagade&limit=5&theme=dark&hide_border=false&combine_all_yearly_contributions=true)](https://github.com/ShardulJunagade)
 
 
 
