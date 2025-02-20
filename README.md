@@ -107,7 +107,7 @@ When I'm not coding, you'll find me playing games or indulging in a good binge-w
 
 <p>
   <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=false&show_icons=true" alt="Shardul's GitHub Stats" /></a>
-  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook" alt="Top Langs" /></a>
+  <a href="https://github.com/ShardulJunagade"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulJunagade&theme=dark&hide_border=false&layout=compact&hide=jupyter%20notebook,html,scss" alt="Top Langs" /></a>
 </p>
 
 <!-- [![Shardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShardulJunagade&theme=dark&hide_border=false&show_icons=true)](https://github.com/ShardulJunagade) -->
