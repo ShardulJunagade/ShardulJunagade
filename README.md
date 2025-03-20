@@ -21,9 +21,10 @@ I'm a **Sophomore** at the prestigious **Indian Institute of Technology Gandhina
 
 ### 📫 Let's Connect:
 
-<!-- - 🌐 Check out my [Portfolio Website](https://) -->
+- 🌐 Check out my [Portfolio Website](https://sharduljunagade.github.io/)
 - 📧 Email: [shardul.junagade@gmail.com](mailto:shardul.junagade@gmail.com)
 - 💼 LinkedIn: [Shardul Junagade](https://www.linkedin.com/in/shardul-junagade/)
+- 📝 My Blog: [Visit Here](https://sharduljunagade.github.io/blog/)
 
 ### 🎮 Fun Fact:
 
