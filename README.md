@@ -19,6 +19,7 @@ I'm a **Sophomore** at the prestigious **Indian Institute of Technology Gandhina
 - 💻 **Deep Learning** and its applications.
 - 🕸️ **Full Stack Web Development** for building responsive and dynamic web applications.
 - 💡 Exploring innovative technologies as a **Tech Enthusiast**.
+- ✨ Occasionally contribute to **Open Source** when inspired – [My PRs](https://github.com/pulls?q=is%3Apr+author%3AShardulJunagade+is%3Amerged).
 
 ### 📫 Let's Connect:
 
